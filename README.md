@@ -5,7 +5,7 @@
 
 **Мои контакты: 📫**
 
- @mikhaylovskaya_k
+- telegram: mikhaylovskaya_k
 - e-mail: karina.a.mikhaylovskaya@gmail.com
 
 ## 🛠 Technical Stack
